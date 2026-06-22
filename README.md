@@ -27,13 +27,13 @@ This project allows users to record, view, and analyze their expenses with an in
 ## 📸 Screenshots
 
 ### User Signup
-![User Signup](assets/signup.png)
+![User Signup](screenshots/signup.png)
 
 ### User Login
-![User Login](assets/login.png)
+![User Login](screenshots/login.png)
 
 ### User Dashboard
-![User Dashboard](assets/dashboard.png)
+![User Dashboard](screenshots/dashboard.png)
 
 *(Replace `assets/...` with the actual paths to your screenshots in the repo.)*
 
